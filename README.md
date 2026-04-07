@@ -20,7 +20,7 @@ Secure a **Junior Cybersecurity Analyst** or **Tier 1 SOC Analyst** role where I
 | 2 | Play It Safe: Manage Security Risks | ✅ Completed | [Botium Toys Security Audit](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-2-play-it-safe/botium-toys-audit) |
 | 3 | Connect and Protect: Networks & Network Security | ✅ Completed | [5 Network Security Projects](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-3-networks) |
 | 4 | Tools of the Trade: Linux and SQL | ✅ Completed | [13 Linux & SQL Labs](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-4-linux-sql) |
-| 5 | Assets, Threats, and Vulnerabilities | 🔄 In Progress | [8 Labs Completed](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-5-assets-threats-vulnerabilities) |
+| 5 | Assets, Threats, and Vulnerabilities | ✅ Completed | [9 Labs](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-5-assets-threats-vulnerabilities) |
 | 6 | Sound the Alarm: Detection and Response | ⬜ Upcoming | — |
 | 7 | Automate Cybersecurity Tasks with Python | ⬜ Upcoming | — |
 | 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Upcoming | — |
@@ -76,9 +76,9 @@ Key labs include:
 
 ---
 
-### Module 5 — Assets, Threats, and Vulnerabilities 🔄
+### Module 5 — Assets, Threats, and Vulnerabilities ✅
 
-**[8 labs completed](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-5-assets-threats-vulnerabilities)** covering asset management, risk assessment, cryptography, and vulnerability analysis.
+**[9 labs completed](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-5-assets-threats-vulnerabilities)** — [Certificate E9XX8Y91VDCD](https://coursera.org/verify/E9XX8Y91VDCD) covering asset management, risk assessment, cryptography, and vulnerability analysis.
 
 Key labs include:
 - **Home Asset Inventory** — classified network assets by sensitivity (Restricted, Confidential, Internal-only)
@@ -120,7 +120,7 @@ Key labs include:
 
 | Certification | Status |
 |---------------|--------|
-| Google Cybersecurity Professional Certificate | 🔄 In Progress (4/8 modules complete) |
+| Google Cybersecurity Professional Certificate | 🔄 In Progress (5/8 modules complete) |
 | CompTIA Security+ | ⬜ Planned |
 
 ---
