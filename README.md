@@ -21,7 +21,7 @@ Secure a **Junior Cybersecurity Analyst** or **Tier 1 SOC Analyst** role where I
 | 3 | Connect and Protect: Networks & Network Security | ✅ Completed | [5 Network Security Projects](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-3-networks) |
 | 4 | Tools of the Trade: Linux and SQL | ✅ Completed | [13 Linux & SQL Labs](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-4-linux-sql) |
 | 5 | Assets, Threats, and Vulnerabilities | ✅ Completed | [9 Labs](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-5-assets-threats-vulnerabilities) |
-| 6 | Sound the Alarm: Detection and Response | ⬜ Upcoming | — |
+| 6 | Sound the Alarm: Detection and Response | 🔄 In Progress | [Incident Handler's Journal](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/incident-handlers-journal) |
 | 7 | Automate Cybersecurity Tasks with Python | ⬜ Upcoming | — |
 | 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Upcoming | — |
 
@@ -73,6 +73,15 @@ Key labs include:
 - **SQL JOIN operations** — combined data across multiple tables using INNER, LEFT, and RIGHT JOINs
 - **Linux user management** — added, modified, and deleted users and groups using `useradd`, `usermod`, `userdel`
 - **Linux help commands** — used `man`, `whatis`, and `apropos` to navigate command documentation
+
+---
+
+### Module 6 — Sound the Alarm: Detection and Response 🔄
+
+**[Incident Handler's Journal](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/incident-handlers-journal)**
+Documenting security incidents using the 5 W's framework as part of an ongoing incident response journal. Each entry captures who caused the incident, what happened, when and where it occurred, and why.
+
+- **Entry 1:** Ransomware attack on a U.S. healthcare clinic — phishing email delivered malware that encrypted critical patient files and shut down all business operations.
 
 ---
 
