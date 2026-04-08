@@ -101,6 +101,16 @@ Key labs include:
 
 ---
 
+## 🧰 Toolkit
+
+A collection of templates and documentation tools I use in my security work.
+
+| # | Tool | Description |
+|---|------|-------------|
+| 1 | [Incident Handler's Journal](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/toolkit/incident-handlers-journal-template) | A structured template for documenting security incidents using the 5 W's framework — used during incident response and investigation |
+
+---
+
 ## 🛠️ Skills
 
 ### Security Practices
