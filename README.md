@@ -21,7 +21,7 @@ Secure a **Junior Cybersecurity Analyst** or **Tier 1 SOC Analyst** role where I
 | 3 | Connect and Protect: Networks & Network Security | ✅ Completed | [5 Network Security Projects](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-3-networks) |
 | 4 | Tools of the Trade: Linux and SQL | ✅ Completed | [13 Linux & SQL Labs](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-4-linux-sql) |
 | 5 | Assets, Threats, and Vulnerabilities | ✅ Completed | [9 Labs](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-5-assets-threats-vulnerabilities) |
-| 6 | Sound the Alarm: Detection and Response | 🔄 In Progress | [Incident Handler's Journal](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/incident-handlers-journal) |
+| 6 | Sound the Alarm: Detection and Response | 🔄 In Progress | [2 Labs](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response) |
 | 7 | Automate Cybersecurity Tasks with Python | ⬜ Upcoming | — |
 | 8 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Upcoming | — |
 
@@ -78,13 +78,11 @@ Key labs include:
 
 ### Module 6 — Sound the Alarm: Detection and Response 🔄
 
-**[Incident Handler's Journal](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/incident-handlers-journal)**
-Documenting security incidents using the 5 W's framework as part of an ongoing incident response journal.
+**[1. Incident Handler's Journal](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/incident-handlers-journal)**  
+Documented a ransomware security incident at a U.S. healthcare clinic using the 5 W's framework. Captured the attacker profile, attack vector (phishing → malware → ransomware), timeline, affected systems, and root cause. Identified HIPAA breach notification obligations and recommended preventive controls.
 
-- **Entry 1:** Ransomware attack on a U.S. healthcare clinic — phishing email delivered malware that encrypted critical patient files and shut down all business operations.
-
-**[Wireshark Packet Analysis](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/wireshark-packet-analysis)**
-Analyzed a network packet capture file using Wireshark to investigate web browsing traffic. Applied display filters to isolate traffic by IP, MAC address, and protocol. Inspected TCP, DNS, ICMP, and HTTP layers to extract key packet metadata and payload content.
+**[2. Wireshark Packet Analysis](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/wireshark-packet-analysis)**  
+Analyzed a network packet capture file (`sample.pcap`) using Wireshark to investigate web browsing traffic. Applied 7 display filters to isolate traffic by IP address, MAC address, and protocol. Inspected TCP, DNS, ICMP, and HTTP packet layers — traced a full TCP three-way handshake, read DNS query/response records for `opensource.google.com`, and identified HTTP GET requests using payload text search.
 
 ---
 
