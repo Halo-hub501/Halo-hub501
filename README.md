@@ -79,9 +79,12 @@ Key labs include:
 ### Module 6 — Sound the Alarm: Detection and Response 🔄
 
 **[Incident Handler's Journal](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/incident-handlers-journal)**
-Documenting security incidents using the 5 W's framework as part of an ongoing incident response journal. Each entry captures who caused the incident, what happened, when and where it occurred, and why.
+Documenting security incidents using the 5 W's framework as part of an ongoing incident response journal.
 
 - **Entry 1:** Ransomware attack on a U.S. healthcare clinic — phishing email delivered malware that encrypted critical patient files and shut down all business operations.
+
+**[Wireshark Packet Analysis](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/wireshark-packet-analysis)**
+Analyzed a network packet capture file using Wireshark to investigate web browsing traffic. Applied display filters to isolate traffic by IP, MAC address, and protocol. Inspected TCP, DNS, ICMP, and HTTP layers to extract key packet metadata and payload content.
 
 ---
 
