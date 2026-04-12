@@ -87,6 +87,9 @@ Analyzed a network packet capture file (`sample.pcap`) using Wireshark to invest
 **[3. tcpdump Packet Capture](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/tcpdump-packet-capture)**  
 Captured and analyzed live network traffic using the tcpdump command-line packet sniffer. Identified available network interfaces, captured HTTP traffic (port 80) to .pcap files, and filtered captured packets using verbose and hexadecimal output formats. Demonstrated packet structure analysis, TCP flag interpretation, and selective traffic filtering.
 
+**[4. Wireshark vs tcpdump Comparison](https://github.com/Halo-hub501/Cybersecurity-Portfolio/tree/main/projects/module-6-detection-and-incident-response/wireshark-tcpdump-comparison)**  
+Comparative analysis of two essential network protocol analyzers. Identified unique features of each tool (Wireshark: GUI with real-time visualization; tcpdump: CLI with remote capabilities), documented 5 key similarities (packet sniffing, .pcap support, protocol analysis, privilege requirements, open-source), and provided practical guidance on tool selection based on investigation scenarios.
+
 ---
 
 ### Module 5 — Assets, Threats, and Vulnerabilities ✅
